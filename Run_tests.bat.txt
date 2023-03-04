@@ -1,0 +1,5 @@
+cd C:\Users\lenovo\eclipse-workspace1Bhima\Practice-Tests\Test-Practice-Tests
+mvn clean
+
+
+
